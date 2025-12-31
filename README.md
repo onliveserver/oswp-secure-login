@@ -115,6 +115,12 @@ oswp-secure-login/
 
 ## Changelog
 
+### Version 2.0.2
+- Removed all extra markdown documentation files
+- Consolidated documentation in README.md only
+- Removed all text icons from documentation
+- Improved documentation clarity
+
 ### Version 2.0.1
 - Fixed redirect issue - now shows 404 instead of auto-redirect
 - Fixed undefined variable warnings in wp-login.php
@@ -292,7 +298,7 @@ Developed by **Onlive Server Dev Team**
 
 ---
 
-**⚠️ Security Tips:**
+**Security Tips:**
 - Always use HTTPS on your WordPress site
 - Use strong, unique passwords
 - Keep WordPress and all plugins updated
